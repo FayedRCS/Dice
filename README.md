@@ -18,3 +18,4 @@ Can do this in Javascript: In javascript it may look like this:
   
   #finished for now, picks rand number and outputs it
 
+
